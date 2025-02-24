@@ -7,14 +7,14 @@ I am **Zhanwei Zhang**, a passionate Computer Science and Technology student at 
 
 ### About Me
 
-- 🎓 I'm pursuing a **B.Sc. in Computer Science and Technology** at **SUSTech**.
+- 🎓 I'm pursuing a **B.Eng. in Computer Science and Technology** at **SUSTech**.
 - 🌱 I'm working on enhancing **Large Language Models** at my current internship in **Linksome**.
 - 🎯 I'm preparing for my **MPhil applications** in **Computer Science (2025)**.
 
 ### Contact Me
 
-📧 Email: [zhangzw@mail.sustech.edu.cn](mailto:zhangzw@mail.sustech.edu.cn)
-🌐 Website: https://it-bill.github.io/
+- 📧 Email: [zhangzw@mail.sustech.edu.cn](mailto:zhangzw@mail.sustech.edu.cn)
+- 🌐 Website: https://it-bill.github.io/
 
 ### GitHub Stats
 

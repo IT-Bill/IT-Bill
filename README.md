@@ -3,7 +3,7 @@
 ![light](https://github.com/ITBillZ/ITBillZ/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![dark](https://github.com/ITBillZ/ITBillZ/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-I and Zhanwei Zhang, currently studying Computer Science and Technology at Southern University of Science and Technology (SUSTech).
+I am Zhanwei Zhang, currently studying Computer Science and Technology at Southern University of Science and Technology (SUSTech).
 
 ### About Me
 

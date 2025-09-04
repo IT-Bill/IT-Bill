@@ -3,7 +3,7 @@
 ![light](https://github.com/ITBillZ/ITBillZ/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![dark](https://github.com/ITBillZ/ITBillZ/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-I’m **Zhanwei Zhang**, an **M.Phil. student in Computer Science and Engineering** at **The Hong Kong University of Science and Technology (Guangzhou) — HKUST(GZ)**.
+I’m **Zhanwei Zhang**, an **M.Phil. student in Thrust of Data Science and Analytics** at **The Hong Kong University of Science and Technology (Guangzhou) — HKUST(GZ)**.
 
 ### About Me
 

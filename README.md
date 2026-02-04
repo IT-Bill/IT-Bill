@@ -15,6 +15,7 @@ I’m **Zhanwei Zhang**, an **M.Phil. student in Thrust of Data Science and Anal
 
 - 📧 Email: [zzhang364@connect.hkust-gz.edu.cn](mailto:zzhang364@connect.hkust-gz.edu.cn)
 - 🌐 Website: https://it-bill.github.io/
+- 📝 Blog: https://it-bill.github.io/blog/
 
 ### GitHub Stats
 

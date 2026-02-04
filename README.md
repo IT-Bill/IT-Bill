@@ -18,4 +18,4 @@ I’m **Zhanwei Zhang**, an **M.Phil. student in Thrust of Data Science and Anal
 
 ### GitHub Stats
 
-![Zhanwei Zhang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=it-bill&show_icons=true&count_private=true&theme=radical)
+![Stats](./profile/stats.svg)

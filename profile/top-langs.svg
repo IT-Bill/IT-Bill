@@ -1,42 +1,52 @@
 <svg width="495" height="250" viewBox="0 0 495 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titleId descId">
   <title id="titleId">IT-Bill's Top Languages</title>
-  <desc id="descId">Language proportion used across public repositories: C 43.6%, Jupyter Notebook 19.8%, JavaScript 13.2%, Java 11.3%, Python 4.1%, HTML 2.0%, Other 6.0%.</desc>
+  <desc id="descId">Top 10 language proportion across public repositories excluding CS301-TBG-Battle-System, CS311-AI: JavaScript 35.8%, Java 30.7%, C 10.6%, HTML 5.5%, Dart 5.3%, Jupyter Notebook 2.1%, Astro 1.6%, Python 1.6%, C++ 1.4%, TypeScript 1.3%.</desc>
   <style>
     .title { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #2f80ed; }
-    .label { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58; }
-    .value { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58; }
-    .muted { fill: #586069; }
+    .label { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58; }
+    .value { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58; }
   </style>
   <rect x="0.5" y="0.5" width="494" height="249" rx="4.5" fill="#fffefe" stroke="#e4e2e2"/>
   <text x="24" y="36" class="title">Top Languages</text>
-  <rect x="24" y="58" width="447" height="10" rx="5" fill="#eff2f5" />
-  <rect x="24.00" y="58" width="194.71" height="10" fill="#555555" rx="2" />
-        <rect x="218.71" y="58" width="88.38" height="10" fill="#DA5B0B" rx="2" />
-        <rect x="307.09" y="58" width="59.12" height="10" fill="#f1e05a" rx="2" />
-        <rect x="366.20" y="58" width="50.63" height="10" fill="#b07219" rx="2" />
-        <rect x="416.83" y="58" width="18.15" height="10" fill="#3572A5" rx="2" />
-        <rect x="434.98" y="58" width="9.14" height="10" fill="#e34c26" rx="2" />
-        <rect x="444.12" y="58" width="26.88" height="10" fill="#8b949e" rx="2" />
-  
-        <circle cx="29" cy="88" r="5" fill="#555555" />
-        <text x="42" y="92" class="label">C</text>
-        <text x="471" y="92" class="value" text-anchor="end">43.6%</text>
-        <circle cx="29" cy="110" r="5" fill="#DA5B0B" />
-        <text x="42" y="114" class="label">Jupyter Notebook</text>
-        <text x="471" y="114" class="value" text-anchor="end">19.8%</text>
-        <circle cx="29" cy="132" r="5" fill="#f1e05a" />
-        <text x="42" y="136" class="label">JavaScript</text>
-        <text x="471" y="136" class="value" text-anchor="end">13.2%</text>
-        <circle cx="29" cy="154" r="5" fill="#b07219" />
-        <text x="42" y="158" class="label">Java</text>
-        <text x="471" y="158" class="value" text-anchor="end">11.3%</text>
-        <circle cx="29" cy="176" r="5" fill="#3572A5" />
-        <text x="42" y="180" class="label">Python</text>
-        <text x="471" y="180" class="value" text-anchor="end">4.1%</text>
-        <circle cx="29" cy="198" r="5" fill="#e34c26" />
-        <text x="42" y="202" class="label">HTML</text>
-        <text x="471" y="202" class="value" text-anchor="end">2.0%</text>
-        <circle cx="29" cy="220" r="5" fill="#8b949e" />
-        <text x="42" y="224" class="label">Other</text>
-        <text x="471" y="224" class="value" text-anchor="end">6.0%</text>
+  <rect x="24" y="56" width="447" height="10" rx="5" fill="#eff2f5" />
+  <rect x="24.00" y="56" width="160.13" height="10" fill="#f1e05a" rx="2" />
+  <rect x="184.13" y="56" width="137.14" height="10" fill="#b07219" rx="2" />
+  <rect x="321.27" y="56" width="47.35" height="10" fill="#555555" rx="2" />
+  <rect x="368.62" y="56" width="24.75" height="10" fill="#e34c26" rx="2" />
+  <rect x="393.37" y="56" width="23.60" height="10" fill="#00B4AB" rx="2" />
+  <rect x="416.97" y="56" width="9.53" height="10" fill="#DA5B0B" rx="2" />
+  <rect x="426.50" y="56" width="7.15" height="10" fill="#2f81f7" rx="2" />
+  <rect x="433.65" y="56" width="6.96" height="10" fill="#3572A5" rx="2" />
+  <rect x="440.60" y="56" width="6.13" height="10" fill="#f34b7d" rx="2" />
+  <rect x="446.74" y="56" width="5.74" height="10" fill="#3178c6" rx="2" />
+  <circle cx="29" cy="88" r="5" fill="#f1e05a" />
+  <text x="42" y="92" class="label">JavaScript</text>
+  <text x="236" y="92" class="value" text-anchor="end">35.8%</text>
+  <circle cx="29" cy="114" r="5" fill="#b07219" />
+  <text x="42" y="118" class="label">Java</text>
+  <text x="236" y="118" class="value" text-anchor="end">30.7%</text>
+  <circle cx="29" cy="140" r="5" fill="#555555" />
+  <text x="42" y="144" class="label">C</text>
+  <text x="236" y="144" class="value" text-anchor="end">10.6%</text>
+  <circle cx="29" cy="166" r="5" fill="#e34c26" />
+  <text x="42" y="170" class="label">HTML</text>
+  <text x="236" y="170" class="value" text-anchor="end">5.5%</text>
+  <circle cx="29" cy="192" r="5" fill="#00B4AB" />
+  <text x="42" y="196" class="label">Dart</text>
+  <text x="236" y="196" class="value" text-anchor="end">5.3%</text>
+  <circle cx="259" cy="88" r="5" fill="#DA5B0B" />
+  <text x="272" y="92" class="label">Jupyter Notebook</text>
+  <text x="471" y="92" class="value" text-anchor="end">2.1%</text>
+  <circle cx="259" cy="114" r="5" fill="#2f81f7" />
+  <text x="272" y="118" class="label">Astro</text>
+  <text x="471" y="118" class="value" text-anchor="end">1.6%</text>
+  <circle cx="259" cy="140" r="5" fill="#3572A5" />
+  <text x="272" y="144" class="label">Python</text>
+  <text x="471" y="144" class="value" text-anchor="end">1.6%</text>
+  <circle cx="259" cy="166" r="5" fill="#f34b7d" />
+  <text x="272" y="170" class="label">C++</text>
+  <text x="471" y="170" class="value" text-anchor="end">1.4%</text>
+  <circle cx="259" cy="192" r="5" fill="#3178c6" />
+  <text x="272" y="196" class="label">TypeScript</text>
+  <text x="471" y="196" class="value" text-anchor="end">1.3%</text>
 </svg>

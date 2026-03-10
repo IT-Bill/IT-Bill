@@ -20,3 +20,4 @@ I’m **Zhanwei Zhang**, an **M.Phil. student in Thrust of Data Science and Anal
 ### GitHub Stats
 
 ![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)

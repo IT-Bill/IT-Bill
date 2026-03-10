@@ -19,5 +19,7 @@ I’m **Zhanwei Zhang**, an **M.Phil. student in Thrust of Data Science and Anal
 
 ### GitHub Stats
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+<p>
+  <img src="./profile/stats.svg" alt="Stats" width="49%" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" width="49%" />
+</p>
